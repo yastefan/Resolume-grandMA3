@@ -1,0 +1,9368 @@
+{
+	"formatVersion": {
+		"major": 1,
+		"minor": 1,
+		"patch": 0
+	},
+	"patch": {
+		"connections": [
+			{
+				"from": [
+					1,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					9,
+					"output"
+				],
+				"to": [
+					19,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					9,
+					"output"
+				],
+				"to": [
+					20,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					9,
+					"output"
+				],
+				"to": [
+					21,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					9,
+					"output"
+				],
+				"to": [
+					22,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					9,
+					"output"
+				],
+				"to": [
+					23,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					3,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					19,
+					"output0"
+				],
+				"to": [
+					3,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					20,
+					"output0"
+				],
+				"to": [
+					24,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					21,
+					"output0"
+				],
+				"to": [
+					25,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					22,
+					"output0"
+				],
+				"to": [
+					26,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					23,
+					"output0"
+				],
+				"to": [
+					27,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					24,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					25,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					26,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					27,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					28,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					29,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					30,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					31,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					7,
+					"output"
+				],
+				"to": [
+					32,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					19,
+					"output0"
+				],
+				"to": [
+					28,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					20,
+					"output0"
+				],
+				"to": [
+					29,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					21,
+					"output0"
+				],
+				"to": [
+					30,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					22,
+					"output0"
+				],
+				"to": [
+					31,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					23,
+					"output0"
+				],
+				"to": [
+					32,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					3,
+					"output0"
+				],
+				"to": [
+					1,
+					"address"
+				]
+			},
+			{
+				"from": [
+					24,
+					"output0"
+				],
+				"to": [
+					11,
+					"address"
+				]
+			},
+			{
+				"from": [
+					25,
+					"output0"
+				],
+				"to": [
+					13,
+					"address"
+				]
+			},
+			{
+				"from": [
+					26,
+					"output0"
+				],
+				"to": [
+					15,
+					"address"
+				]
+			},
+			{
+				"from": [
+					27,
+					"output0"
+				],
+				"to": [
+					17,
+					"address"
+				]
+			},
+			{
+				"from": [
+					28,
+					"output0"
+				],
+				"to": [
+					33,
+					"address"
+				]
+			},
+			{
+				"from": [
+					29,
+					"output0"
+				],
+				"to": [
+					34,
+					"address"
+				]
+			},
+			{
+				"from": [
+					30,
+					"output0"
+				],
+				"to": [
+					35,
+					"address"
+				]
+			},
+			{
+				"from": [
+					31,
+					"output0"
+				],
+				"to": [
+					36,
+					"address"
+				]
+			},
+			{
+				"from": [
+					32,
+					"output0"
+				],
+				"to": [
+					37,
+					"address"
+				]
+			},
+			{
+				"from": [
+					11,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					13,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					15,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					17,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					33,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					34,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					35,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					36,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					37,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					38,
+					"output"
+				],
+				"to": [
+					1,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					39,
+					"output"
+				],
+				"to": [
+					11,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					40,
+					"output"
+				],
+				"to": [
+					13,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					41,
+					"output"
+				],
+				"to": [
+					15,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					42,
+					"output"
+				],
+				"to": [
+					17,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					103,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					44,
+					"output"
+				],
+				"to": [
+					103,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					103,
+					"output"
+				],
+				"to": [
+					33,
+					"write"
+				]
+			},
+			{
+				"from": [
+					105,
+					"output"
+				],
+				"to": [
+					107,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					108,
+					"output"
+				],
+				"to": [
+					110,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					111,
+					"output"
+				],
+				"to": [
+					113,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					107,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					110,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					113,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					116,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					107,
+					"output"
+				],
+				"to": [
+					34,
+					"write"
+				]
+			},
+			{
+				"from": [
+					110,
+					"output"
+				],
+				"to": [
+					35,
+					"write"
+				]
+			},
+			{
+				"from": [
+					113,
+					"output"
+				],
+				"to": [
+					36,
+					"write"
+				]
+			},
+			{
+				"from": [
+					116,
+					"output"
+				],
+				"to": [
+					37,
+					"write"
+				]
+			},
+			{
+				"from": [
+					117,
+					"output"
+				],
+				"to": [
+					118,
+					"input"
+				]
+			},
+			{
+				"from": [
+					125,
+					"osc"
+				],
+				"to": [
+					0,
+					"input"
+				]
+			},
+			{
+				"from": [
+					127,
+					"output0"
+				],
+				"to": [
+					125,
+					"write"
+				]
+			},
+			{
+				"from": [
+					129,
+					"output0"
+				],
+				"to": [
+					130,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					119,
+					"bpm"
+				],
+				"to": [
+					129,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					132,
+					"output"
+				],
+				"to": [
+					135,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					133,
+					"output"
+				],
+				"to": [
+					136,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					134,
+					"output"
+				],
+				"to": [
+					135,
+					"input2"
+				]
+			},
+			{
+				"from": [
+					135,
+					"output0"
+				],
+				"to": [
+					125,
+					"address"
+				]
+			},
+			{
+				"from": [
+					130,
+					"output0"
+				],
+				"to": [
+					136,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					136,
+					"output"
+				],
+				"to": [
+					127,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					136,
+					"output"
+				],
+				"to": [
+					125,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					38,
+					"output"
+				],
+				"to": [
+					140,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					140,
+					"output0"
+				],
+				"to": [
+					1,
+					"write"
+				]
+			},
+			{
+				"from": [
+					141,
+					"output0"
+				],
+				"to": [
+					11,
+					"write"
+				]
+			},
+			{
+				"from": [
+					39,
+					"output"
+				],
+				"to": [
+					141,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					142,
+					"output0"
+				],
+				"to": [
+					13,
+					"write"
+				]
+			},
+			{
+				"from": [
+					40,
+					"output"
+				],
+				"to": [
+					142,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					41,
+					"output"
+				],
+				"to": [
+					143,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					143,
+					"output0"
+				],
+				"to": [
+					15,
+					"write"
+				]
+			},
+			{
+				"from": [
+					42,
+					"output"
+				],
+				"to": [
+					144,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					144,
+					"output0"
+				],
+				"to": [
+					17,
+					"write"
+				]
+			},
+			{
+				"from": [
+					162,
+					"output0"
+				],
+				"to": [
+					164,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					166,
+					"output0"
+				],
+				"to": [
+					164,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					181,
+					"output"
+				],
+				"to": [
+					33,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					181,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					44,
+					"output"
+				],
+				"to": [
+					181,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					182,
+					"output"
+				],
+				"to": [
+					34,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					182,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					105,
+					"output"
+				],
+				"to": [
+					182,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					183,
+					"output"
+				],
+				"to": [
+					35,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					108,
+					"output"
+				],
+				"to": [
+					183,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					183,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					184,
+					"output"
+				],
+				"to": [
+					36,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					111,
+					"output"
+				],
+				"to": [
+					184,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					185,
+					"output"
+				],
+				"to": [
+					37,
+					"parameter1"
+				]
+			},
+			{
+				"from": [
+					114,
+					"output"
+				],
+				"to": [
+					185,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					68,
+					"output"
+				],
+				"to": [
+					185,
+					"selection"
+				]
+			},
+			{
+				"from": [
+					201,
+					"true"
+				],
+				"to": [
+					200,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					201,
+					"false"
+				],
+				"to": [
+					202,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					204,
+					"output0"
+				],
+				"to": [
+					205,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					206,
+					"bpm"
+				],
+				"to": [
+					204,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					205,
+					"output0"
+				],
+				"to": [
+					203,
+					"time"
+				]
+			},
+			{
+				"from": [
+					202,
+					"output0"
+				],
+				"to": [
+					203,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					209,
+					"output0"
+				],
+				"to": [
+					201,
+					"condition"
+				]
+			},
+			{
+				"from": [
+					203,
+					"output0"
+				],
+				"to": [
+					208,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					201,
+					"true"
+				],
+				"to": [
+					208,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					210,
+					"output0"
+				],
+				"to": [
+					200,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					210,
+					"output0"
+				],
+				"to": [
+					202,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					211,
+					"output0"
+				],
+				"to": [
+					209,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					211,
+					"output0"
+				],
+				"to": [
+					208,
+					"signal"
+				]
+			},
+			{
+				"from": [
+					44,
+					"output"
+				],
+				"to": [
+					211,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					47,
+					"output"
+				],
+				"to": [
+					210,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					214,
+					"true"
+				],
+				"to": [
+					213,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					214,
+					"false"
+				],
+				"to": [
+					215,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					217,
+					"output0"
+				],
+				"to": [
+					218,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					219,
+					"bpm"
+				],
+				"to": [
+					217,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					218,
+					"output0"
+				],
+				"to": [
+					216,
+					"time"
+				]
+			},
+			{
+				"from": [
+					215,
+					"output0"
+				],
+				"to": [
+					216,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					222,
+					"output0"
+				],
+				"to": [
+					214,
+					"condition"
+				]
+			},
+			{
+				"from": [
+					216,
+					"output0"
+				],
+				"to": [
+					221,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					214,
+					"true"
+				],
+				"to": [
+					221,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					223,
+					"output0"
+				],
+				"to": [
+					213,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					223,
+					"output0"
+				],
+				"to": [
+					215,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					224,
+					"output0"
+				],
+				"to": [
+					222,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					224,
+					"output0"
+				],
+				"to": [
+					221,
+					"signal"
+				]
+			},
+			{
+				"from": [
+					105,
+					"output"
+				],
+				"to": [
+					224,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					47,
+					"output"
+				],
+				"to": [
+					223,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					227,
+					"true"
+				],
+				"to": [
+					226,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					227,
+					"false"
+				],
+				"to": [
+					228,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					230,
+					"output0"
+				],
+				"to": [
+					231,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					232,
+					"bpm"
+				],
+				"to": [
+					230,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					231,
+					"output0"
+				],
+				"to": [
+					229,
+					"time"
+				]
+			},
+			{
+				"from": [
+					228,
+					"output0"
+				],
+				"to": [
+					229,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					235,
+					"output0"
+				],
+				"to": [
+					227,
+					"condition"
+				]
+			},
+			{
+				"from": [
+					229,
+					"output0"
+				],
+				"to": [
+					234,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					227,
+					"true"
+				],
+				"to": [
+					234,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					236,
+					"output0"
+				],
+				"to": [
+					226,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					236,
+					"output0"
+				],
+				"to": [
+					228,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					237,
+					"output0"
+				],
+				"to": [
+					235,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					237,
+					"output0"
+				],
+				"to": [
+					234,
+					"signal"
+				]
+			},
+			{
+				"from": [
+					108,
+					"output"
+				],
+				"to": [
+					237,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					47,
+					"output"
+				],
+				"to": [
+					236,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					240,
+					"true"
+				],
+				"to": [
+					239,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					240,
+					"false"
+				],
+				"to": [
+					241,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					243,
+					"output0"
+				],
+				"to": [
+					244,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					245,
+					"bpm"
+				],
+				"to": [
+					243,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					244,
+					"output0"
+				],
+				"to": [
+					242,
+					"time"
+				]
+			},
+			{
+				"from": [
+					241,
+					"output0"
+				],
+				"to": [
+					242,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					248,
+					"output0"
+				],
+				"to": [
+					240,
+					"condition"
+				]
+			},
+			{
+				"from": [
+					242,
+					"output0"
+				],
+				"to": [
+					247,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					240,
+					"true"
+				],
+				"to": [
+					247,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					249,
+					"output0"
+				],
+				"to": [
+					239,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					249,
+					"output0"
+				],
+				"to": [
+					241,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					250,
+					"output0"
+				],
+				"to": [
+					248,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					250,
+					"output0"
+				],
+				"to": [
+					247,
+					"signal"
+				]
+			},
+			{
+				"from": [
+					111,
+					"output"
+				],
+				"to": [
+					250,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					47,
+					"output"
+				],
+				"to": [
+					249,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					253,
+					"true"
+				],
+				"to": [
+					252,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					253,
+					"false"
+				],
+				"to": [
+					254,
+					"reset"
+				]
+			},
+			{
+				"from": [
+					256,
+					"output0"
+				],
+				"to": [
+					257,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					258,
+					"bpm"
+				],
+				"to": [
+					256,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					257,
+					"output0"
+				],
+				"to": [
+					255,
+					"time"
+				]
+			},
+			{
+				"from": [
+					254,
+					"output0"
+				],
+				"to": [
+					255,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					261,
+					"output0"
+				],
+				"to": [
+					253,
+					"condition"
+				]
+			},
+			{
+				"from": [
+					255,
+					"output0"
+				],
+				"to": [
+					260,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					253,
+					"true"
+				],
+				"to": [
+					260,
+					"trigger"
+				]
+			},
+			{
+				"from": [
+					262,
+					"output0"
+				],
+				"to": [
+					252,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					262,
+					"output0"
+				],
+				"to": [
+					254,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					263,
+					"output0"
+				],
+				"to": [
+					261,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					263,
+					"output0"
+				],
+				"to": [
+					260,
+					"signal"
+				]
+			},
+			{
+				"from": [
+					114,
+					"output"
+				],
+				"to": [
+					263,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					47,
+					"output"
+				],
+				"to": [
+					262,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					208,
+					"output0"
+				],
+				"to": [
+					181,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					221,
+					"output0"
+				],
+				"to": [
+					182,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					234,
+					"output0"
+				],
+				"to": [
+					183,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					247,
+					"output0"
+				],
+				"to": [
+					184,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					260,
+					"output0"
+				],
+				"to": [
+					185,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					114,
+					"output"
+				],
+				"to": [
+					116,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					255,
+					"output0"
+				],
+				"to": [
+					268,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					252,
+					"output0"
+				],
+				"to": [
+					268,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					239,
+					"output0"
+				],
+				"to": [
+					269,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					242,
+					"output0"
+				],
+				"to": [
+					269,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					226,
+					"output0"
+				],
+				"to": [
+					270,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					229,
+					"output0"
+				],
+				"to": [
+					270,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					213,
+					"output0"
+				],
+				"to": [
+					271,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					216,
+					"output0"
+				],
+				"to": [
+					271,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					200,
+					"output0"
+				],
+				"to": [
+					272,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					203,
+					"output0"
+				],
+				"to": [
+					272,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					272,
+					"output0"
+				],
+				"to": [
+					103,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					271,
+					"output0"
+				],
+				"to": [
+					107,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					270,
+					"output0"
+				],
+				"to": [
+					110,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					269,
+					"output0"
+				],
+				"to": [
+					113,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					268,
+					"output0"
+				],
+				"to": [
+					116,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					273,
+					"output0"
+				],
+				"to": [
+					164,
+					"input1"
+				]
+			},
+			{
+				"from": [
+					273,
+					"output0"
+				],
+				"to": [
+					274,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					164,
+					"output"
+				],
+				"to": [
+					275,
+					"input0"
+				]
+			},
+			{
+				"from": [
+					276,
+					"output0"
+				],
+				"to": [
+					162,
+					"input0"
+				]
+			}
+		],
+		"inputOrder": {
+			"groups": {
+				"1738673359027": {
+					"children": [
+						7,
+						9,
+						68,
+						133,
+						132,
+						134
+					],
+					"collapsed": false,
+					"name": "Config"
+				}
+			},
+			"roots": [
+				{
+					"group": 1738673359027
+				},
+				{
+					"node": 38
+				},
+				{
+					"node": 39
+				},
+				{
+					"node": 40
+				},
+				{
+					"node": 41
+				},
+				{
+					"node": 42
+				},
+				{
+					"node": 44
+				},
+				{
+					"node": 105
+				},
+				{
+					"node": 108
+				},
+				{
+					"node": 111
+				},
+				{
+					"node": 114
+				},
+				{
+					"node": 117
+				}
+			]
+		},
+		"meta": {
+			"author": "Stefan",
+			"category": "effect",
+			"deploymentTarget": {
+				"branch": "",
+				"name": "Wire",
+				"version": {
+					"major": 7,
+					"minor": 22,
+					"patch": 0
+				}
+			},
+			"description": "",
+			"displayName": "GrandMA3",
+			"identifier": "faef90b9-0d64-486c-90a7-69c906481583",
+			"licenseName": "GPLv3",
+			"mail": "stefan@freudundlight.de",
+			"originalTarget": {
+				"branch": "",
+				"name": "Wire",
+				"version": {
+					"major": 7,
+					"minor": 22,
+					"patch": 3
+				}
+			},
+			"quality": 32856,
+			"resolution": {
+				"height": 1080,
+				"width": 1920
+			},
+			"saveTarget": {
+				"branch": "",
+				"name": "Wire",
+				"version": {
+					"major": 7,
+					"minor": 22,
+					"patch": 3
+				}
+			},
+			"thumbnail": "",
+			"url": "freudundlight.de",
+			"vendor": "freudundlight.de"
+		},
+		"nextNodeId": 277,
+		"nodes": {
+			"0": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 132,
+					"x": 3003.0400390625,
+					"y": 928.0460205078125
+				},
+				"class": {
+					"id": "77697265-5b59-4fd5-b374-c7ca941ce21e",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "osc",
+						"value": null
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "OSC Out",
+				"thumbnail_visible": true
+			},
+			"1": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1024.160400390625,
+					"y": -298.9302978515625
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"103": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1819.572998046875,
+					"y": 1011.1160888671875
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"105": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 1
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 376.472900390625,
+					"y": 1528.030029296875
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Key 2",
+				"thumbnail_visible": true
+			},
+			"107": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1831.787109375,
+					"y": 1461.2381591796875
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"108": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 1
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 360.405609130859375,
+					"y": 1964.4423828125
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Key 3",
+				"thumbnail_visible": true
+			},
+			"11": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1024.6356201171875,
+					"y": -139.6366729736328125
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"110": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1831.452880859375,
+					"y": 1895.259765625
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"111": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 1
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 358.42755126953125,
+					"y": 2388.6328125
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Key 4",
+				"thumbnail_visible": true
+			},
+			"113": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1831.414306640625,
+					"y": 2319.525146484375
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"114": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 1
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 363.5343017578125,
+					"y": 2803.9189453125
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Key 5",
+				"thumbnail_visible": true
+			},
+			"116": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1830.318115234375,
+					"y": 2709.016845703125
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"117": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 176.2962646484375,
+					"y": -505.444000244140625
+				},
+				"class": {
+					"id": "77697265-B2A2-4C1C-8C4C-2915D78CC8E9",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "texture2d",
+						"value": null
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow"
+				],
+				"name": "Texture In",
+				"thumbnail_visible": true
+			},
+			"118": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 132,
+					"x": 371.748321533203125,
+					"y": -505.44403076171875
+				},
+				"class": {
+					"id": "77697265-BEEA-4D38-8EE5-0EBA4CBD0AEE",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "texture2d",
+						"value": null
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "Texture Out",
+				"thumbnail_visible": true
+			},
+			"119": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 769.7890625,
+					"y": 3465.755615234375
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"125": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1913.752685546875,
+					"y": 3434.991943359375
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader215\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"127": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1672.710693359375,
+					"y": 3435.912353515625
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"129": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 970.27734375,
+					"y": 3465.698974609375
+				},
+				"class": {
+					"id": "77697265-3595-4107-A14B-9348570DB50B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 1
+					},
+					"input1": {
+						"type": "float",
+						"value": 0.5243840217590332
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input1-type",
+					"flow",
+					"input0-dimensions",
+					"input1-dimensions"
+				],
+				"name": "Power",
+				"thumbnail_visible": true
+			},
+			"13": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1024.6356201171875,
+					"y": 16.10206222534179688
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"130": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "float"
+					},
+					"type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1198.0692138671875,
+					"y": 3464.947021484375
+				},
+				"class": {
+					"id": "77697265-0D55-485E-813D-706DD5DFE88D",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 1
+					},
+					"input1": {
+						"type": "float",
+						"value": 0.17117999494075775
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Divide",
+				"thumbnail_visible": true
+			},
+			"132": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"option0-label": {
+						"type": "string",
+						"value": "Actual"
+					},
+					"option0-value": {
+						"type": "string",
+						"value": "\/"
+					},
+					"option1-label": {
+						"type": "string",
+						"value": "1"
+					},
+					"option1-value": {
+						"type": "string",
+						"value": "\/Page1\/"
+					},
+					"option10-label": {
+						"type": "string",
+						"value": "10"
+					},
+					"option10-value": {
+						"type": "string",
+						"value": "\/Page10\/"
+					},
+					"option2-label": {
+						"type": "string",
+						"value": "2"
+					},
+					"option2-value": {
+						"type": "string",
+						"value": "\/Page2\/"
+					},
+					"option3-label": {
+						"type": "string",
+						"value": "3"
+					},
+					"option3-value": {
+						"type": "string",
+						"value": "\/Page3\/"
+					},
+					"option4-label": {
+						"type": "string",
+						"value": "4"
+					},
+					"option4-value": {
+						"type": "string",
+						"value": "\/Page4\/"
+					},
+					"option5-label": {
+						"type": "string",
+						"value": "5"
+					},
+					"option5-value": {
+						"type": "string",
+						"value": "\/Page5\/"
+					},
+					"option6-label": {
+						"type": "string",
+						"value": "6"
+					},
+					"option6-value": {
+						"type": "string",
+						"value": "\/Page6\/"
+					},
+					"option7-label": {
+						"type": "string",
+						"value": "7"
+					},
+					"option7-value": {
+						"type": "string",
+						"value": "\/Page7\/"
+					},
+					"option8-label": {
+						"type": "string",
+						"value": "8"
+					},
+					"option8-value": {
+						"type": "string",
+						"value": "\/Page8\/"
+					},
+					"option9-label": {
+						"type": "string",
+						"value": "9"
+					},
+					"option9-value": {
+						"type": "string",
+						"value": "\/Page9\/"
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 11
+					},
+					"widget": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 1454.227783203125,
+					"y": 3548.468505859375
+				},
+				"class": {
+					"id": "77697265-F29F-45E9-A833-21E09C750BA7",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "string",
+						"value": "\/Page1\/"
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"options-count",
+					"widget",
+					"option0-label",
+					"option0-value",
+					"option1-label",
+					"option1-value",
+					"option2-label",
+					"option2-value",
+					"option3-label",
+					"option3-value",
+					"option4-label",
+					"option4-value",
+					"option5-label",
+					"option5-value",
+					"option6-label",
+					"option6-value",
+					"option7-label",
+					"option7-value",
+					"option8-label",
+					"option8-value",
+					"option9-label",
+					"option9-value",
+					"option10-label",
+					"option10-value"
+				],
+				"name": "SpeedFader Page",
+				"thumbnail_visible": true
+			},
+			"133": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 0
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 1262.979248046875,
+					"y": 3353.295654296875
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Sync Speed",
+				"thumbnail_visible": true
+			},
+			"134": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "attribute"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"input": {
+						"type": "integer",
+						"value": 415
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "integer",
+						"value": 490
+					},
+					"min": {
+						"type": "integer",
+						"value": 101
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 1453.206787109375,
+					"y": 3646.888427734375
+				},
+				"class": {
+					"id": "77697265-2649-4abb-b38f-4e1005183415",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "SpeedFader",
+				"thumbnail_visible": true
+			},
+			"135": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 1642.0489501953125,
+					"y": 3547.301025390625
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": "\/"
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"136": {
+				"attributes": {
+					"case-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1431.1475830078125,
+					"y": 3435.688720703125
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949346033440",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					},
+					"input1": {
+						"type": "float",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"case-type",
+					"flow",
+					"instances"
+				],
+				"name": "Switch",
+				"thumbnail_visible": true
+			},
+			"138": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Fader"
+					}
+				},
+				"bounds": {
+					"height": 875.6065673828125,
+					"width": 1131.0689697265625,
+					"x": 145.70172119140625,
+					"y": -322.801513671875
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ff02bbff",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"139": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Speed Sync"
+					}
+				},
+				"bounds": {
+					"height": 541.69580078125,
+					"width": 1454.341064453125,
+					"x": 757.9630126953125,
+					"y": 3279.277099609375
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffae7bff",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"140": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 735.9381103515625,
+					"y": -267.257781982421875
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"141": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 735.93804931640625,
+					"y": -112.037261962890625
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"142": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 735.710205078125,
+					"y": 43.905029296875
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"143": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 736.11175537109375,
+					"y": 205.1487579345703125
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"144": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 738.1859130859375,
+					"y": 364.862274169921875
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"15": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1024.6356201171875,
+					"y": 177.4733734130859375
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"162": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 572.56329345703125,
+					"y": -850.165283203125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"164": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 810.58172607421875,
+					"y": -850.9296875
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					},
+					"input1": {
+						"type": "float",
+						"value": 0
+					},
+					"selection": {
+						"type": "bool",
+						"value": true
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"165": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Simple Button Logic"
+					}
+				},
+				"bounds": {
+					"height": 289.1907958984375,
+					"width": 1143.450927734375,
+					"x": 164.012481689453125,
+					"y": -1017.867431640625
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ff02bbff",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"166": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 58,
+					"width": 195,
+					"x": 565.786865234375,
+					"y": -960.1962890625
+				},
+				"class": {
+					"id": "77697265-5852-4454-89e5-e61a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Bool",
+				"thumbnail_visible": true
+			},
+			"17": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 1024.05859375,
+					"y": 336.5196533203125
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"181": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1818.56640625,
+					"y": 1092.760498046875
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					},
+					"input1": {
+						"type": "bool",
+						"value": false
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"182": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1831.6328125,
+					"y": 1543.39111328125
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					},
+					"input1": {
+						"type": "bool",
+						"value": false
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"183": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1831.3583984375,
+					"y": 1978.2108154296875
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					},
+					"input1": {
+						"type": "bool",
+						"value": false
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"184": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1830.746826171875,
+					"y": 2400.495849609375
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					},
+					"input1": {
+						"type": "bool",
+						"value": false
+					},
+					"selection": {
+						"type": "bool",
+						"value": true
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"185": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"selection-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1830.747314453125,
+					"y": 2819.51416015625
+				},
+				"class": {
+					"id": "77697265-6899-4A9C-82AB-949716033440",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					},
+					"input1": {
+						"type": "bool",
+						"value": false
+					},
+					"selection": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"selection-type",
+					"type",
+					"flow",
+					"instances"
+				],
+				"name": "Gate",
+				"thumbnail_visible": true
+			},
+			"19": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "integer"
+					},
+					"type1": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": -238.59857177734375,
+					"y": 216.495697021484375
+				},
+				"class": {
+					"id": "77697265-A9AF-4CB4-B10F-3968B36BB63B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Add",
+				"thumbnail_visible": true
+			},
+			"199": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Delay to Bar Logic"
+					}
+				},
+				"bounds": {
+					"height": 333.36077880859375,
+					"width": 1051.2669677734375,
+					"x": 614.68890380859375,
+					"y": 992.09033203125
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"20": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "integer"
+					},
+					"type1": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": -238.537445068359375,
+					"y": 373.564422607421875
+				},
+				"class": {
+					"id": "77697265-A9AF-4CB4-B10F-3968B36BB63B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 2
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Add",
+				"thumbnail_visible": true
+			},
+			"200": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 831.24578857421875,
+					"y": 1033.4580078125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"201": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 831.25091552734375,
+					"y": 1147.706298828125
+				},
+				"class": {
+					"id": "77697265-4b9a-a7f6-922d96685f6c",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"condition": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "If",
+				"thumbnail_visible": true
+			},
+			"202": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1031.02490234375,
+					"y": 1147.33984375
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"203": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"interpolation": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1245.23046875,
+					"y": 1147.525390625
+				},
+				"class": {
+					"id": "77697265-4BEE-483F-9F28-1BA5F21193DB",
+					"version": 4
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					},
+					"time": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"interpolation",
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Delay",
+				"thumbnail_visible": true
+			},
+			"204": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 832.07269287109375,
+					"y": 1247.567138671875
+				},
+				"class": {
+					"id": "77697265-D6A0-423F-99F8-608FA5E03E97",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Bpm to Frequency",
+				"thumbnail_visible": true
+			},
+			"205": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1031.5263671875,
+					"y": 1247.567138671875
+				},
+				"class": {
+					"id": "77697265-8061-467F-B375-DB03FFF5ED40",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "1 \/ x",
+				"thumbnail_visible": true
+			},
+			"206": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 613.99066162109375,
+					"y": 1196.90673828125
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"208": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"signal-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1505.13671875,
+					"y": 1239.349365234375
+				},
+				"class": {
+					"id": "77697265-d650-4adb-be52-b00f8fb46a0e",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"signal": {
+						"type": "bool",
+						"value": false
+					},
+					"trigger": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"signal-type",
+					"instances"
+				],
+				"name": "Snapshot",
+				"thumbnail_visible": true
+			},
+			"209": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 613.60418701171875,
+					"y": 1148.06103515625
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"21": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "integer"
+					},
+					"type1": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": -240.740386962890625,
+					"y": 534.9688720703125
+				},
+				"class": {
+					"id": "77697265-A9AF-4CB4-B10F-3968B36BB63B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 3
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Add",
+				"thumbnail_visible": true
+			},
+			"210": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 572.99725341796875,
+					"y": 1033.8564453125
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"211": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 572.69720458984375,
+					"y": 1088.469970703125
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"212": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Delay to Bar Logic"
+					}
+				},
+				"bounds": {
+					"height": 333.36077880859375,
+					"width": 1051.2669677734375,
+					"x": 601.281982421875,
+					"y": 1443.0269775390625
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"213": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 817.8388671875,
+					"y": 1484.3946533203125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"214": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 817.843994140625,
+					"y": 1598.6429443359375
+				},
+				"class": {
+					"id": "77697265-4b9a-a7f6-922d96685f6c",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"condition": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "If",
+				"thumbnail_visible": true
+			},
+			"215": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1017.617919921875,
+					"y": 1598.2764892578125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"216": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"interpolation": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1231.823486328125,
+					"y": 1598.4620361328125
+				},
+				"class": {
+					"id": "77697265-4BEE-483F-9F28-1BA5F21193DB",
+					"version": 4
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					},
+					"time": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"interpolation",
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Delay",
+				"thumbnail_visible": true
+			},
+			"217": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 818.665771484375,
+					"y": 1698.5037841796875
+				},
+				"class": {
+					"id": "77697265-D6A0-423F-99F8-608FA5E03E97",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Bpm to Frequency",
+				"thumbnail_visible": true
+			},
+			"218": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1018.119384765625,
+					"y": 1698.5037841796875
+				},
+				"class": {
+					"id": "77697265-8061-467F-B375-DB03FFF5ED40",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "1 \/ x",
+				"thumbnail_visible": true
+			},
+			"219": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 600.583740234375,
+					"y": 1647.8433837890625
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"22": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "integer"
+					},
+					"type1": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": -240.811798095703125,
+					"y": 692.66015625
+				},
+				"class": {
+					"id": "77697265-A9AF-4CB4-B10F-3968B36BB63B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Add",
+				"thumbnail_visible": true
+			},
+			"221": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"signal-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1491.729736328125,
+					"y": 1690.2860107421875
+				},
+				"class": {
+					"id": "77697265-d650-4adb-be52-b00f8fb46a0e",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"signal": {
+						"type": "bool",
+						"value": false
+					},
+					"trigger": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"signal-type",
+					"instances"
+				],
+				"name": "Snapshot",
+				"thumbnail_visible": true
+			},
+			"222": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 600.197265625,
+					"y": 1598.9976806640625
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"223": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 559.59033203125,
+					"y": 1484.7930908203125
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"224": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 559.290283203125,
+					"y": 1539.4063720703125
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"225": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Delay to Bar Logic"
+					}
+				},
+				"bounds": {
+					"height": 333.36077880859375,
+					"width": 1051.2669677734375,
+					"x": 601.0289306640625,
+					"y": 1889.891845703125
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"226": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 817.5858154296875,
+					"y": 1931.259521484375
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"227": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 817.5909423828125,
+					"y": 2045.5078125
+				},
+				"class": {
+					"id": "77697265-4b9a-a7f6-922d96685f6c",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"condition": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "If",
+				"thumbnail_visible": true
+			},
+			"228": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1017.3648681640625,
+					"y": 2045.141357421875
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"229": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"interpolation": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1231.5704345703125,
+					"y": 2045.326904296875
+				},
+				"class": {
+					"id": "77697265-4BEE-483F-9F28-1BA5F21193DB",
+					"version": 4
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					},
+					"time": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"interpolation",
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Delay",
+				"thumbnail_visible": true
+			},
+			"23": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 2
+					},
+					"type0": {
+						"type": "type",
+						"value": "integer"
+					},
+					"type1": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": -240.811798095703125,
+					"y": 848.350341796875
+				},
+				"class": {
+					"id": "77697265-A9AF-4CB4-B10F-3968B36BB63B",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"input1": {
+						"type": "integer",
+						"value": 5
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"type0",
+					"input0-dimensions",
+					"type1",
+					"input1-dimensions"
+				],
+				"name": "Add",
+				"thumbnail_visible": true
+			},
+			"230": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 818.4127197265625,
+					"y": 2145.36865234375
+				},
+				"class": {
+					"id": "77697265-D6A0-423F-99F8-608FA5E03E97",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Bpm to Frequency",
+				"thumbnail_visible": true
+			},
+			"231": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1017.8663330078125,
+					"y": 2145.36865234375
+				},
+				"class": {
+					"id": "77697265-8061-467F-B375-DB03FFF5ED40",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "1 \/ x",
+				"thumbnail_visible": true
+			},
+			"232": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 600.3306884765625,
+					"y": 2094.708251953125
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"234": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"signal-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1491.4766845703125,
+					"y": 2137.15087890625
+				},
+				"class": {
+					"id": "77697265-d650-4adb-be52-b00f8fb46a0e",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"signal": {
+						"type": "bool",
+						"value": false
+					},
+					"trigger": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"signal-type",
+					"instances"
+				],
+				"name": "Snapshot",
+				"thumbnail_visible": true
+			},
+			"235": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 599.9442138671875,
+					"y": 2045.862548828125
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"236": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 559.3372802734375,
+					"y": 1931.657958984375
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"237": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 559.0372314453125,
+					"y": 1986.271240234375
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"238": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Delay to Bar Logic"
+					}
+				},
+				"bounds": {
+					"height": 333.36077880859375,
+					"width": 1051.2669677734375,
+					"x": 604.98492431640625,
+					"y": 2319.626708984375
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"239": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 821.54180908203125,
+					"y": 2360.994384765625
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"24": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 164.54248046875,
+					"y": -79.0429229736328125
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"240": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 821.54693603515625,
+					"y": 2475.24267578125
+				},
+				"class": {
+					"id": "77697265-4b9a-a7f6-922d96685f6c",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"condition": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "If",
+				"thumbnail_visible": true
+			},
+			"241": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1021.32086181640625,
+					"y": 2474.876220703125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"242": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"interpolation": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1235.5263671875,
+					"y": 2475.061767578125
+				},
+				"class": {
+					"id": "77697265-4BEE-483F-9F28-1BA5F21193DB",
+					"version": 4
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					},
+					"time": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"interpolation",
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Delay",
+				"thumbnail_visible": true
+			},
+			"243": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 822.36871337890625,
+					"y": 2575.103515625
+				},
+				"class": {
+					"id": "77697265-D6A0-423F-99F8-608FA5E03E97",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Bpm to Frequency",
+				"thumbnail_visible": true
+			},
+			"244": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1021.82232666015625,
+					"y": 2575.103515625
+				},
+				"class": {
+					"id": "77697265-8061-467F-B375-DB03FFF5ED40",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "1 \/ x",
+				"thumbnail_visible": true
+			},
+			"245": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 604.28668212890625,
+					"y": 2524.443115234375
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"247": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"signal-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1495.4326171875,
+					"y": 2566.8857421875
+				},
+				"class": {
+					"id": "77697265-d650-4adb-be52-b00f8fb46a0e",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"signal": {
+						"type": "bool",
+						"value": false
+					},
+					"trigger": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"signal-type",
+					"instances"
+				],
+				"name": "Snapshot",
+				"thumbnail_visible": true
+			},
+			"248": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 603.90020751953125,
+					"y": 2475.597412109375
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"249": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 563.29327392578125,
+					"y": 2361.392822265625
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"25": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 164.011444091796875,
+					"y": 80.15100860595703125
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"250": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 562.99322509765625,
+					"y": 2416.00634765625
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"251": {
+				"attributes": {
+					"alignment": {
+						"type": "integer",
+						"value": 0
+					},
+					"fill": {
+						"type": "bool",
+						"value": true
+					},
+					"font-size": {
+						"type": "float",
+						"value": 19
+					},
+					"text": {
+						"type": "string",
+						"value": "Delay to Bar Logic"
+					}
+				},
+				"bounds": {
+					"height": 333.36077880859375,
+					"width": 1051.2669677734375,
+					"x": 602.5255126953125,
+					"y": 2717.9775390625
+				},
+				"class": {
+					"id": "77697265-3C1D-467D-A722-0FC566538374",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [
+					"text",
+					"alignment",
+					"font-size",
+					"fill"
+				],
+				"name": "Comment",
+				"thumbnail_visible": true
+			},
+			"252": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 819.0823974609375,
+					"y": 2759.34521484375
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"253": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 819.0875244140625,
+					"y": 2873.593505859375
+				},
+				"class": {
+					"id": "77697265-4b9a-a7f6-922d96685f6c",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"condition": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances"
+				],
+				"name": "If",
+				"thumbnail_visible": true
+			},
+			"254": {
+				"attributes": {
+					"depleted-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max-count-flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"output0-flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"reset-flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1018.8614501953125,
+					"y": 2873.22705078125
+				},
+				"class": {
+					"id": "77697265-2641-42da-883e-b641d4a49224",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"max-count": {
+						"type": "integer",
+						"value": 1
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"input0-flow",
+					"max-count-flow",
+					"reset-flow",
+					"output0-flow",
+					"depleted-flow",
+					"instances",
+					"depleted"
+				],
+				"name": "Pass N",
+				"thumbnail_visible": true
+			},
+			"255": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"interpolation": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1233.0670166015625,
+					"y": 2873.41259765625
+				},
+				"class": {
+					"id": "77697265-4BEE-483F-9F28-1BA5F21193DB",
+					"version": 4
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					},
+					"reset": {
+						"type": "trigger",
+						"value": null
+					},
+					"time": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"interpolation",
+					"input0-type",
+					"flow",
+					"instances"
+				],
+				"name": "Delay",
+				"thumbnail_visible": true
+			},
+			"256": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 819.9093017578125,
+					"y": 2973.454345703125
+				},
+				"class": {
+					"id": "77697265-D6A0-423F-99F8-608FA5E03E97",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Bpm to Frequency",
+				"thumbnail_visible": true
+			},
+			"257": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1019.3629150390625,
+					"y": 2973.454345703125
+				},
+				"class": {
+					"id": "77697265-8061-467F-B375-DB03FFF5ED40",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "1 \/ x",
+				"thumbnail_visible": true
+			},
+			"258": {
+				"attributes": {},
+				"bounds": {
+					"height": 130,
+					"width": 195,
+					"x": 601.8272705078125,
+					"y": 2922.7939453125
+				},
+				"class": {
+					"id": "77697265-66B1-4C28-A5A9-1F64026D769B",
+					"version": 0
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {},
+				"hidden": [],
+				"name": "Transport Info",
+				"thumbnail_visible": true
+			},
+			"26": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 165.8739776611328125,
+					"y": 241.6749420166015625
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"260": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"signal-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 1492.9732666015625,
+					"y": 2965.236572265625
+				},
+				"class": {
+					"id": "77697265-d650-4adb-be52-b00f8fb46a0e",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"signal": {
+						"type": "bool",
+						"value": false
+					},
+					"trigger": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"signal-type",
+					"instances"
+				],
+				"name": "Snapshot",
+				"thumbnail_visible": true
+			},
+			"261": {
+				"attributes": {
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 601.4407958984375,
+					"y": 2873.9482421875
+				},
+				"class": {
+					"id": "77697265-E6B2-4921-9FF4-CB3A0A78697D",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"instances"
+				],
+				"name": "On Change",
+				"thumbnail_visible": true
+			},
+			"262": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 560.8338623046875,
+					"y": 2759.74365234375
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"263": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "bool"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 560.5338134765625,
+					"y": 2814.357177734375
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"268": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1491.384765625,
+					"y": 2760.054931640625
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Write Out",
+				"thumbnail_visible": true
+			},
+			"269": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1497.471923828125,
+					"y": 2360.240966796875
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Write Out",
+				"thumbnail_visible": true
+			},
+			"27": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 165.8682403564453125,
+					"y": 399.546417236328125
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"270": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1494.467041015625,
+					"y": 1930.53759765625
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Write Out",
+				"thumbnail_visible": true
+			},
+			"271": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1491.1395263671875,
+					"y": 1484.0855712890625
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Write Out",
+				"thumbnail_visible": true
+			},
+			"272": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "integer"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1503.1248779296875,
+					"y": 1037.3536376953125
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "fff26eb5",
+				"constants": {
+					"input0": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Write Out",
+				"thumbnail_visible": true
+			},
+			"273": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 149.93377685546875,
+					"y": -866.699951171875
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Button In",
+				"thumbnail_visible": true
+			},
+			"274": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1145.312255859375,
+					"y": -865.9549560546875
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Param Out",
+				"thumbnail_visible": true
+			},
+			"275": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 1147.6265869140625,
+					"y": -930.9637451171875
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Trigger Out",
+				"thumbnail_visible": true
+			},
+			"276": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input0-type": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 30,
+					"width": 195,
+					"x": 154.808990478515625,
+					"y": -960.5765380859375
+				},
+				"class": {
+					"id": "77697265-AEE3-4B9D-BBD5-6Ae4CCD5aB30",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"input0-type",
+					"flow",
+					"input0-dimensions"
+				],
+				"name": "Tick In",
+				"thumbnail_visible": true
+			},
+			"28": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 147.69482421875,
+					"y": 1052.09521484375
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Key"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"29": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 155.946197509765625,
+					"y": 1501.481689453125
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Key"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"3": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 165.6103515625,
+					"y": -235.88983154296875
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Fader"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"30": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 137.859130859375,
+					"y": 1938.642822265625
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Key"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"31": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 135.1279754638671875,
+					"y": 2362.874755859375
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Key"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"32": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"input0-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input1-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input2-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"input3-dimensions": {
+						"type": "integer",
+						"value": 1
+					},
+					"size": {
+						"type": "integer",
+						"value": 4
+					}
+				},
+				"bounds": {
+					"height": 154,
+					"width": 195,
+					"x": 135.1222381591796875,
+					"y": 2777.723388671875
+				},
+				"class": {
+					"id": "77697265-5852-33AB-89e5-F52a24ca2d50",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input0": {
+						"type": "string",
+						"value": ""
+					},
+					"input1": {
+						"type": "string",
+						"value": "Key"
+					},
+					"input2": {
+						"type": "string",
+						"value": ""
+					},
+					"input3": {
+						"type": "string",
+						"value": "\/"
+					},
+					"separator": {
+						"type": "string",
+						"value": ""
+					}
+				},
+				"hidden": [
+					"flow",
+					"size",
+					"input0-dimensions",
+					"input1-dimensions",
+					"input2-dimensions",
+					"input3-dimensions"
+				],
+				"name": "Concatenate",
+				"thumbnail_visible": true
+			},
+			"33": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 2067.512451171875,
+					"y": 1010.0140380859375
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 0
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"34": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 2077.306884765625,
+					"y": 1461.8472900390625
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 0
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"35": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 2059.7509765625,
+					"y": 1895.552978515625
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 0
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"36": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 2055.1572265625,
+					"y": 2319.63232421875
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 10
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"37": {
+				"attributes": {
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-number": {
+						"type": "integer",
+						"value": 1
+					},
+					"parameter-type1": {
+						"type": "type",
+						"value": "float"
+					}
+				},
+				"bounds": {
+					"height": 106,
+					"width": 195,
+					"x": 2054.580322265625,
+					"y": 2735.656005859375
+				},
+				"class": {
+					"id": "77697265-8B96-4D66-BF59-C726226F8F9C",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"address": {
+						"type": "string",
+						"value": "\/Page1\/Fader206\/"
+					},
+					"parameter1": {
+						"type": "float",
+						"value": 0
+					},
+					"write": {
+						"type": "trigger",
+						"value": null
+					}
+				},
+				"hidden": [
+					"parameter-number",
+					"parameter-type1",
+					"instances"
+				],
+				"name": "Write OSC",
+				"thumbnail_visible": true
+			},
+			"38": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "float",
+						"value": 100
+					},
+					"min": {
+						"type": "float",
+						"value": 0
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 535.67236328125,
+					"y": -217.7069244384765625
+				},
+				"class": {
+					"id": "77697265-D235-4A6A-B661-02ABE55C72FF",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "Fader 1",
+				"thumbnail_visible": true
+			},
+			"39": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "float",
+						"value": 100
+					},
+					"min": {
+						"type": "float",
+						"value": 0
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 537.1204833984375,
+					"y": -62.18331527709960938
+				},
+				"class": {
+					"id": "77697265-D235-4A6A-B661-02ABE55C72FF",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "Fader 2",
+				"thumbnail_visible": true
+			},
+			"40": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "float",
+						"value": 100
+					},
+					"min": {
+						"type": "float",
+						"value": 0
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 536.051513671875,
+					"y": 100.14192962646484375
+				},
+				"class": {
+					"id": "77697265-D235-4A6A-B661-02ABE55C72FF",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "Fader 3",
+				"thumbnail_visible": true
+			},
+			"41": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "float",
+						"value": 100
+					},
+					"min": {
+						"type": "float",
+						"value": 0
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 536.051513671875,
+					"y": 261.14208984375
+				},
+				"class": {
+					"id": "77697265-D235-4A6A-B661-02ABE55C72FF",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "Fader 4",
+				"thumbnail_visible": true
+			},
+			"42": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "float",
+						"value": 100
+					},
+					"min": {
+						"type": "float",
+						"value": 0
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 0
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 535.4251708984375,
+					"y": 415.5699462890625
+				},
+				"class": {
+					"id": "77697265-D235-4A6A-B661-02ABE55C72FF",
+					"version": 3
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "float",
+						"value": 0
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"unit"
+				],
+				"name": "Fader 5",
+				"thumbnail_visible": true
+			},
+			"44": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 1
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 367.544891357421875,
+					"y": 1079.55078125
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Key 1",
+				"thumbnail_visible": true
+			},
+			"47": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 195,
+					"x": 309.78057861328125,
+					"y": 945.731201171875
+				},
+				"class": {
+					"id": "77697265-F95D-4BF9-94B0-3336465DEEFC",
+					"version": 1
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"multiplier": {
+						"type": "float",
+						"value": 0.25
+					}
+				},
+				"hidden": [
+					"flow"
+				],
+				"name": "Transport Tick",
+				"thumbnail_visible": true
+			},
+			"68": {
+				"attributes": {
+					"bool-view": {
+						"type": "integer",
+						"value": 0
+					},
+					"flow": {
+						"type": "flow",
+						"value": "event"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": 1596.8753662109375,
+					"y": 846.76263427734375
+				},
+				"class": {
+					"id": "77697265-999C-4F8B-8B9D-3646DC68AA69",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "bool",
+						"value": false
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"bool-view"
+				],
+				"name": "Trigger Keys on new Bar",
+				"thumbnail_visible": true
+			},
+			"7": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"option0-label": {
+						"type": "string",
+						"value": "Actual"
+					},
+					"option0-value": {
+						"type": "string",
+						"value": "\/"
+					},
+					"option1-label": {
+						"type": "string",
+						"value": "1"
+					},
+					"option1-value": {
+						"type": "string",
+						"value": "\/Page1\/"
+					},
+					"option10-label": {
+						"type": "string",
+						"value": "10"
+					},
+					"option10-value": {
+						"type": "string",
+						"value": "\/Page10\/"
+					},
+					"option2-label": {
+						"type": "string",
+						"value": "2"
+					},
+					"option2-value": {
+						"type": "string",
+						"value": "\/Page2\/"
+					},
+					"option3-label": {
+						"type": "string",
+						"value": "3"
+					},
+					"option3-value": {
+						"type": "string",
+						"value": "\/Page3\/"
+					},
+					"option4-label": {
+						"type": "string",
+						"value": "4"
+					},
+					"option4-value": {
+						"type": "string",
+						"value": "\/Page4\/"
+					},
+					"option5-label": {
+						"type": "string",
+						"value": "5"
+					},
+					"option5-value": {
+						"type": "string",
+						"value": "\/Page5\/"
+					},
+					"option6-label": {
+						"type": "string",
+						"value": "6"
+					},
+					"option6-value": {
+						"type": "string",
+						"value": "\/Page6\/"
+					},
+					"option7-label": {
+						"type": "string",
+						"value": "7"
+					},
+					"option7-value": {
+						"type": "string",
+						"value": "\/Page7\/"
+					},
+					"option8-label": {
+						"type": "string",
+						"value": "8"
+					},
+					"option8-value": {
+						"type": "string",
+						"value": "\/Page8\/"
+					},
+					"option9-label": {
+						"type": "string",
+						"value": "9"
+					},
+					"option9-value": {
+						"type": "string",
+						"value": "\/Page9\/"
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 11
+					},
+					"widget": {
+						"type": "integer",
+						"value": 1
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": -174.87078857421875,
+					"y": 31.47650146484375
+				},
+				"class": {
+					"id": "77697265-F29F-45E9-A833-21E09C750BA7",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "string",
+						"value": "\/Page1\/"
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"options-count",
+					"widget",
+					"option0-label",
+					"option0-value",
+					"option1-label",
+					"option1-value",
+					"option2-label",
+					"option2-value",
+					"option3-label",
+					"option3-value",
+					"option4-label",
+					"option4-value",
+					"option5-label",
+					"option5-value",
+					"option6-label",
+					"option6-value",
+					"option7-label",
+					"option7-value",
+					"option8-label",
+					"option8-value",
+					"option9-label",
+					"option9-value",
+					"option10-label",
+					"option10-value"
+				],
+				"name": "Page",
+				"thumbnail_visible": true
+			},
+			"9": {
+				"attributes": {
+					"flow": {
+						"type": "flow",
+						"value": "signal"
+					},
+					"has-max": {
+						"type": "bool",
+						"value": true
+					},
+					"has-min": {
+						"type": "bool",
+						"value": true
+					},
+					"instances": {
+						"type": "integer",
+						"value": 1
+					},
+					"max": {
+						"type": "integer",
+						"value": 410
+					},
+					"min": {
+						"type": "integer",
+						"value": 0
+					},
+					"option0-label": {
+						"type": "string",
+						"value": "100 + x"
+					},
+					"option0-value": {
+						"type": "integer",
+						"value": 100
+					},
+					"option1-label": {
+						"type": "string",
+						"value": "105 + x"
+					},
+					"option1-value": {
+						"type": "integer",
+						"value": 105
+					},
+					"option10-label": {
+						"type": "string",
+						"value": "405 + x"
+					},
+					"option10-value": {
+						"type": "integer",
+						"value": 405
+					},
+					"option11-label": {
+						"type": "string",
+						"value": "410 + x"
+					},
+					"option11-value": {
+						"type": "integer",
+						"value": 410
+					},
+					"option2-label": {
+						"type": "string",
+						"value": "110 + x"
+					},
+					"option2-value": {
+						"type": "integer",
+						"value": 110
+					},
+					"option3-label": {
+						"type": "string",
+						"value": "200 + x"
+					},
+					"option3-value": {
+						"type": "integer",
+						"value": 200
+					},
+					"option4-label": {
+						"type": "string",
+						"value": "205 + x"
+					},
+					"option4-value": {
+						"type": "integer",
+						"value": 205
+					},
+					"option5-label": {
+						"type": "string",
+						"value": "210 + x"
+					},
+					"option5-value": {
+						"type": "integer",
+						"value": 210
+					},
+					"option6-label": {
+						"type": "string",
+						"value": "300 + x"
+					},
+					"option6-value": {
+						"type": "integer",
+						"value": 300
+					},
+					"option7-label": {
+						"type": "string",
+						"value": "305 + x"
+					},
+					"option7-value": {
+						"type": "integer",
+						"value": 305
+					},
+					"option8-label": {
+						"type": "string",
+						"value": "310 + x"
+					},
+					"option8-value": {
+						"type": "integer",
+						"value": 310
+					},
+					"option9-label": {
+						"type": "string",
+						"value": "400 + x"
+					},
+					"option9-value": {
+						"type": "integer",
+						"value": 400
+					},
+					"options-count": {
+						"type": "integer",
+						"value": 12
+					},
+					"unit": {
+						"type": "integer",
+						"value": 0
+					},
+					"widget": {
+						"type": "integer",
+						"value": 0
+					}
+				},
+				"bounds": {
+					"height": 82,
+					"width": 130,
+					"x": -518.8748779296875,
+					"y": 220.293548583984375
+				},
+				"class": {
+					"id": "77697265-2649-4abb-b38f-4e1005183415",
+					"version": 2
+				},
+				"clock": "video",
+				"color": "ffff6a00",
+				"constants": {
+					"input": {
+						"type": "integer",
+						"value": 200
+					}
+				},
+				"hidden": [
+					"instances",
+					"flow",
+					"has-min",
+					"min",
+					"has-max",
+					"max",
+					"options-count",
+					"widget",
+					"option0-label",
+					"option0-value",
+					"option1-label",
+					"option1-value",
+					"option2-label",
+					"option2-value",
+					"option3-label",
+					"option3-value",
+					"option4-label",
+					"option4-value",
+					"option5-label",
+					"option5-value",
+					"option6-label",
+					"option6-value",
+					"option7-label",
+					"option7-value",
+					"option8-label",
+					"option8-value",
+					"option9-label",
+					"option9-value",
+					"option10-label",
+					"option10-value",
+					"option11-label",
+					"option11-value",
+					"unit"
+				],
+				"name": "Executor",
+				"thumbnail_visible": true
+			}
+		},
+		"ui": {
+			"camera": {
+				"x": -1843.6627197265625,
+				"y": -1145.20556640625,
+				"zoom": 0.18926021456718445
+			},
+			"selection": []
+		}
+	},
+	"ui": {
+		"audio": {
+			"routing": {
+				"in": {},
+				"out": []
+			}
+		},
+		"deviceConnections": {
+			"input": {
+				"117": "Test Card"
+			}
+		},
+		"transport": {
+			"bpm": 120,
+			"time-signature": [
+				4,
+				4
+			]
+		},
+		"video": {
+			"routing": {
+				"out": {
+					"Display 1": null
+				}
+			}
+		}
+	}
+}
