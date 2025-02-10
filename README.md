@@ -1,2 +1,6 @@
 # Resolume-grandMA3
+
 grandMA3 plugin to control grandMA3 from resolume via osc
+
+![examples](examples.png)
+
